@@ -97,7 +97,7 @@
 </details>
 
 
-![snake gif](https://github.com/Mrinank-Bhowmick/Mrinank-Bhowmick/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/KudoAkinichi/KudoAkinichi/blob/1534e77699e5265d486c2c89e7d02f38da3065c1/github-contribution-grid-snake.gif)
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
