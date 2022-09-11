@@ -53,14 +53,14 @@
 <br/>
 
 <code><img height="40" width="40" src="https://img.icons8.com/color/480/c-programming.png"></code>
-<code><img height="40" width="40" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png"></code>
-<code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png"></code>
+<code><img height="40" width="35" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png"></code>
+<code><img height="40" width="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
 
 # 
 
-<code><img height="40" width="40" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png"></code>
-<code><img height="40" width="40" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
+<code><img height="40" width="30" src="https://i.ibb.co/pWrVLbc/kindpng-237316.png"></code>
+<code><img height="40" width="30" src="https://i.ibb.co/BfR4dMt/kindpng-4938086.png"></code>
+<code><img height="40" width="35" src="https://i.ibb.co/4JBfB1h/kindpng-1718046.png"></code>
 
 <img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
 
