@@ -62,6 +62,7 @@
 <code><img height="40" width="30" src="https://i.ibb.co/BfR4dMt/kindpng-4938086.png"></code>
 <code><img height="40" width="35" src="https://i.ibb.co/4JBfB1h/kindpng-1718046.png"></code>
 <code><img height="38" width="39" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png"></code>
+<code><img height="38" width="39" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png"></code>
 <code><img height="40" width="33" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Rr7K5gOm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dbalas.gallerycdn.vsassets.io/extensions/dbalas/vscode-html2pug/0.0.2/1532242577062/Microsoft.VisualStudio.Services.Icons.Default"></code>
 
 #
