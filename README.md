@@ -122,7 +122,7 @@
 <p align="center">
   <br>
   </a>
-  <a href="https://www.instagram.com/aryan.19.k/" target="_blank">
+  <a href="https://www.instagram.com/aryan_krishna_js/" target="_blank">
     <code><img height="60" width="60" src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-background-hd-3.png"/></code>
   </a>
   <a href="https://twitter.com/KAkinichi" target="_blank">
