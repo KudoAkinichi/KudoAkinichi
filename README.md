@@ -58,7 +58,7 @@
 
 # 
 
-<code><img height="40" width="30" src="https://i.ibb.co/pWrVLbc/kindpng-237316.png"></code>
+<code><img height="40" width="44" src="https://icons.iconarchive.com/icons/martz90/hex/512/html-5-icon.png"></code>
 <code><img height="40" width="30" src="https://i.ibb.co/BfR4dMt/kindpng-4938086.png"></code>
 <code><img height="40" width="35" src="https://i.ibb.co/4JBfB1h/kindpng-1718046.png"></code>
 <code><img height="36" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"></code>
